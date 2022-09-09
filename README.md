@@ -1,4 +1,8 @@
-### Hi there 👋
+# Park Junseo
+## _HYU CSE 22_
+
+### What can I do?
+- Introduction of Software Design
 
 <!--
 **bjsbest/bjsbest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
