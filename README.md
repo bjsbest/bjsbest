@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFC812&height=300&section=header&text=Park%20Junseo&fontSize=70)
 
 ### What can I do?
-- Introduction of Software Design
+- Introduction to Software Design
+- Creative Software Design
 
 <!--
 **bjsbest/bjsbest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
