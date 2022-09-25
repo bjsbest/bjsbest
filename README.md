@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFC812&height=300&section=header&text=Park%20Junseo&fontSize=70)
 
+### HYU CSE 22
+
 ### What can I do?
 - Introduction to Software Design
 - Creative Software Design
