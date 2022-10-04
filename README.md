@@ -2,7 +2,6 @@
 
 ### HYU CSE 22
 
-### What can I do?
 - Introduction to Software Design
 - Creative Software Design
 
