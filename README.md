@@ -5,10 +5,6 @@
 - Introduction to Software Design
 - Creative Software Design
 
-- Calculus 2
-- Linear Algebra
-- Discrete Mathematics
-
 <!--
 **bjsbest/bjsbest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
