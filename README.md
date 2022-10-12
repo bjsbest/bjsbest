@@ -3,7 +3,7 @@
 ### HYU CSE 22
 
 - Introduction to Software Design
-- Creative Software Design
+- Creative Software Design (-ing)
 
 <!--
 **bjsbest/bjsbest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
